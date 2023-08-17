@@ -9,7 +9,9 @@ __pycache__/
 # ignore these types of files 
 *.csv
 *.pkl
-*.xlxs 
+*.xlxs
+
+data/
 
 # Distribution / packaging
 .Python
